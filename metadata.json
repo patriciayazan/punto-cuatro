@@ -1,0 +1,6 @@
+{
+  "name": "Android Jetpack Compose - Seguridad y Cifrado (Punto 4)",
+  "description": "Laboratorio y simulador interactivo de Cifrado en Android con Kotlin y Jetpack Compose, EncryptedSharedPreferences (AES-256) vs Almacenamiento Externo en SD, Device File Explorer y ADB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
